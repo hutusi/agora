@@ -1,0 +1,21 @@
+.agora[data-theme="light"],
+.agora[data-theme="system"] {
+  --agora-bg: #ffffff;
+  --agora-bg-secondary: #f6f8fa;
+  --agora-bg-tertiary: #f1f3f5;
+  --agora-text: #1f2328;
+  --agora-text-secondary: #656d76;
+  --agora-text-link: #0969da;
+  --agora-border: #d0d7de;
+  --agora-btn-bg: #f6f8fa;
+  --agora-btn-primary: #2da44e;
+  --agora-btn-hover: #218838;
+  --agora-btn-text: #24292f;
+  --agora-btn-text-primary: #ffffff;
+  --agora-reaction-bg: transparent;
+  --agora-reaction-bg-hover: #f3f4f6;
+  --agora-reaction-bg-active: #ddf4ff;
+  --agora-reaction-border-active: #0969da;
+  --agora-avatar-border: rgba(31, 35, 40, 0.15);
+  --agora-timeline-color: #d0d7de;
+}

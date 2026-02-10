@@ -3,7 +3,10 @@
   "compilerOptions": {
     "outDir": "./dist",
     "declaration": true,
-    "declarationDir": "./dist"
+    "declarationDir": "./dist",
+    "incremental": false,
+    "noEmit": false,
+    "tsBuildInfoFile": "./dist/.tsbuildinfo"
   },
   "include": [
     "src/components/**/*",
